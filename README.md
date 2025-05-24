@@ -19,3 +19,9 @@ The course includes practical applications of:
 - Disjoint Set Union (Union-Find)
 - Hashing techniques
 - Recursion and backtracking
+
+To compile and run C/C++ files:
+
+```bash
+g++ filename.cpp -o output
+./output
