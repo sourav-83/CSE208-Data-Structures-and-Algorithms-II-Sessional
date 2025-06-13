@@ -12,7 +12,7 @@ This repository contains lab tasks, problem solutions, and practice implementati
 The course includes practical applications of:
 
 
-- Trees (AVL, Fibonacci Heap, Binary Heap, etc.)
+- Trees (Red Black Tree, Fibonacci Heap, Binary Heap, etc.)
 - Graph algorithms (BFS, DFS, Dijkstra, Kruskal, etc.)
 - Max flow algorithms
 - MST algorithms
