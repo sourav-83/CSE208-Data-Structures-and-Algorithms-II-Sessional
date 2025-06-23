@@ -12,11 +12,8 @@ This repository contains lab tasks, problem solutions, and practice implementati
 The course includes practical applications of:
 
 
-- Trees (Red Black Tree, Fibonacci Heap, Binary Heap, etc.)
-- Graph algorithms (BFS, DFS, Dijkstra, Kruskal, etc.)
-- Max flow algorithms
-- MST algorithms
-- Disjoint Set Union (Union-Find)
+- Trees (Red Black Tree, Fibonacci Heap, Binomial Heap, etc.)
+- Graph algorithms (SSSP, APSP, MST, max flow etc.)
 - Hashing techniques
 - Recursion and backtracking
 
